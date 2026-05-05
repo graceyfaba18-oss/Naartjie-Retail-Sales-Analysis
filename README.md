@@ -1,4 +1,4 @@
-# Project 2 — Naartjie Kids South Africa
+Naartjie Kids South Africa
 ## Retail Sales Performance Analysis
 
 **Author:** Gracey F.
